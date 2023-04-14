@@ -41,7 +41,7 @@
 <br>适配Depots Update：2022.12.22 (22 December 2022 – 11:59:57 UTC)
 <br>检查Depots Update：[[Game]Summer Crush](https://steamdb.info/depot/2163061/manifests/)
 <br>解压密码：vetoy
-<br>补丁下载：[百度网盘(提取码)]()　　　[GitHub(点开并下载最新补丁下方的Assets中尾缀为rar的文件)](https://github.com/Vetoyi/CN_Patch.Summer_Crush/releases)
+<br>补丁下载：[百度网盘(提取码fatv)](https://pan.baidu.com/s/1TBcGDwgNGNpfIEm0xAbA2A)　　　[GitHub(点开并下载最新补丁下方的Assets中尾缀为rar的文件)](https://github.com/Vetoyi/CN_Patch.Summer_Crush/releases)
 <br>补丁安装：[目录“(必读)如何使用补丁”](https://github.com/Vetoyi/CN_Patch.Summer_Crush#o必读bangbang如何使用补丁)
 <br>汉化报错等问题：[目录“补丁快速Q&A”](https://github.com/Vetoyi/CN_Patch.Summer_Crush#o补丁快速qa)
 <br>[更多Steam欧美黄油汉化补丁(凭兴趣随缘更新切勿催更)](https://github.com/Vetoyi/CN_Patch.RenPy_Games)**
