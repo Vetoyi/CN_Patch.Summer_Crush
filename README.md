@@ -46,8 +46,6 @@
 <br>汉化报错等问题：[目录“补丁快速Q&A”](https://github.com/Vetoyi/CN_Patch.Summer_Crush#o补丁快速qa)
 <br>[更多Steam欧美黄油汉化补丁(凭兴趣随缘更新切勿催更)](https://github.com/Vetoyi/CN_Patch.RenPy_Games)**
 
-<br>[更多Steam欧美黄油汉化补丁(凭兴趣随缘更新切勿催更)](https://github.com/Vetoyi/CN_Patch.RenPy_Games)**
-
 ***
 
 # :o:(必读:bangbang:)如何使用补丁
